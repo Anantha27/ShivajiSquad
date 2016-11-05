@@ -1,0 +1,52 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.TField{ width:350px; border:1px solid #D8D0D1; padding-left:6px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif; font-size:17px;}
+.menu
+{	background-image:url(../images/img1.jpg);
+}
+	 .FormElement
+	 { width:350px; margin:6px auto;
+	   height:50px; 
+	 }
+.Container
+{
+    width:200px;
+
+    height:auto;
+    clear:both;
+    overflow: auto;
+    margin: 60px auto;
+}
+#ContentLeft{ width:280px;
+	float:left;}
+	#Contentright{ width:380px;
+	float:right;}
+#leftbody
+{	height:640px;
+    width:850px;
+    float: left;
+    margin: 0px;
+    background-image: url(cs.gif);
+}
+#Pageheading
+{	height:100px;
+	padding:11px;
+    float: right;
+    margin-right: 200px;
+}
+.button{ width:200px; height:50px; border:0px solid; background-color:#0776EC; color:#FFFFFF; font-size:24px;}
+.button:hover{background-color:#05008A;}
+.Header{    height: 100px;}
+.LeftBody{width: 260px; float: left;    height: 400px;}
+.Rightbody{width:300px;float:right; height:800; }
+.Header{   width: 450px;float: right; height:auto;}
+.Footer{    height: 100px;}
+#h1{
+    color: royalblue;
+    font-family: sans-serif;
+    font-size: 40px;
+}

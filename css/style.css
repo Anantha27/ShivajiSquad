@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    margin-top: 10px;
+    background-image:url(bkg.jpg);
+}
+
+.center {
+    text-align: center;
+}
+
+.text-big {
+    font-size: 150%;
+}
+#enter
+{
+    height: 10px;
+}
+#gap{
+    height: 20px;
+}
+.bold {
+    font-weight: bold;
+}
+
+.img-medium {
+    margin-top: 10px;
+    height: 200px;
+}
+.center button
+{
+      text-align: center;
+      margin-top:10px;
+}
+.btn{
+    background-color:blue;
+    height:50px; 
+    color:white;
+      font-weight: bold;
+    font-family: sans-serif;00
+}
