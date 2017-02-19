@@ -1,40 +1,29 @@
-body {
-    font-family: sans-serif;
-    margin-top: 10px;
-    background-image:url(bkg.jpg);
+.navbar-default {
+    background-color: #43efcd;
+    border-color: #e7e7e7;
 }
-
-.center {
-    text-align: center;
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #f5f5f5;
+    background-color: #18bfae;
 }
-
-.text-big {
-    font-size: 150%;
+.navbar-default .navbar-brand {
+    color: #fff;
 }
-#enter
-{
-    height: 10px;
-}
-#gap{
-    height: 20px;
-}
-.bold {
+navbar-brand {
+    font-size: 20px;
     font-weight: bold;
 }
-
-.img-medium {
-    margin-top: 10px;
-    height: 200px;
+.navbar-default .navbar-nav>li>a {
+    color: #fdfbfb;
 }
-.center button
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #18bfae;
+}
+.form-control {
+  width:50%;
+}
+.login-form
 {
-      text-align: center;
-      margin-top:10px;
-}
-.btn{
-    background-color:blue;
-    height:50px; 
-    color:white;
-      font-weight: bold;
-    font-family: sans-serif;00
+    align-content: space-around;
+    margin-left: 100px;
 }
